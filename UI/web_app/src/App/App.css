@@ -1,0 +1,38 @@
+/* 
+css to handle form tag style
+*/ 
+form {
+  padding-top: 50px;
+  padding-left: 400px;
+  max-width: 500px;
+  display: grid;
+  grid-template-columns: auto auto;
+  row-gap: 20px;
+  font-weight: bold;
+}
+
+
+/* 
+css to handle button tag style
+*/ 
+button {
+  background-color: #3895D3; /* Green */
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 16px;
+  max-width: 150px;
+  margin-left: 68px;
+}
+
+/* 
+css to handle p(output) tag style
+*/ 
+p {
+  margin-left: 320px;
+}
